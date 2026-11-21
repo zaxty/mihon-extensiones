@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Tachiyomi: ManhwaWeb",
+    "pkg": "eu.kanade.tachiyomi.extension.es.manhwaweb",
+    "apk": "tachiyomi-es.manhwaweb-v1.4.20.apk",
+    "lang": "es",
+    "code": 20,
+    "version": "1.4.20",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "ManhwaWeb",
+        "lang": "es",
+        "id": "5943212552955476721",
+        "baseUrl": "https://manhwaweb.com"
+      }
+    ]
+  }
+]
